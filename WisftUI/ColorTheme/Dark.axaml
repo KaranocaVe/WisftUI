@@ -29,11 +29,11 @@
     <Color x:Key="Accents-Vibrant-Gray">#A2A2A7</Color>
 
 
-    <Color x:Key="Fills-Primary">#FFFFFF1A</Color>
-    <Color x:Key="Fills-Secondary">#FFFFFF14</Color>
-    <Color x:Key="Fills-Tertiary">#FFFFFF0D</Color>
-    <Color x:Key="Fills-Quaternary">#FFFFFF08</Color>
-    <Color x:Key="Fills-Quinary">#FFFFFF03</Color>
+    <Color x:Key="Fills-Primary">#1AFFFFFF</Color>
+    <Color x:Key="Fills-Secondary">#14FFFFFF</Color>
+    <Color x:Key="Fills-Tertiary">#0DFFFFFF</Color>
+    <Color x:Key="Fills-Quaternary">#08FFFFFF</Color>
+    <Color x:Key="Fills-Quinary">#03FFFFFF</Color>
     <Color x:Key="Fills-Vibrant-Primary">#242424</Color>
     <Color x:Key="Fills-Vibrant-Secondary">#141414</Color>
     <Color x:Key="Fills-Vibrant-Tertiary">#0D0D0D</Color>
@@ -41,11 +41,11 @@
     <Color x:Key="Fills-Vibrant-Quinary">#070707</Color>
 
 
-    <Color x:Key="Text-Primary">#FFFFFFD9</Color>
-    <Color x:Key="Text-Secondary">#FFFFFF8C</Color>
-    <Color x:Key="Text-Tertiary">#FFFFFF40</Color>
-    <Color x:Key="Text-Quaternary">#FFFFFF1A</Color>
-    <Color x:Key="Text-Quinary">#FFFFFF0D</Color>
+    <Color x:Key="Text-Primary">#D9FFFFFF</Color>
+    <Color x:Key="Text-Secondary">#8CFFFFFF</Color>
+    <Color x:Key="Text-Tertiary">#40FFFFFF</Color>
+    <Color x:Key="Text-Quaternary">#1AFFFFFF</Color>
+    <Color x:Key="Text-Quinary">#0DFFFFFF</Color>
     <Color x:Key="Text-Vibrant-Primary">#E5E5E5</Color>
     <Color x:Key="Text-Vibrant-Secondary">#7C7C7C</Color>
     <Color x:Key="Text-Vibrant-Tertiary">#414141</Color>
@@ -53,20 +53,20 @@
     <Color x:Key="Text-Vibrant-Quinary">#414141</Color>
 
 
-    <Color x:Key="Materials-Ultrathick">#00000080</Color>
-    <Color x:Key="Materials-Thick">#00000066</Color>
-    <Color x:Key="Materials-Medium">#0000004A</Color>
-    <Color x:Key="Materials-Thin">#00000033</Color>
-    <Color x:Key="Materials-Ultrathin">#0000001A</Color>
-    <Color x:Key="Materials-Controls-Menu">#F6F6F6B8</Color>
-    <Color x:Key="Materials-Controls-Popover">#F6F6F699</Color>
-    <Color x:Key="Materials-Controls-Title-Bar">#3C3C3CCC</Color>
-    <Color x:Key="Materials-Controls-Sidebar">#00000073</Color>
-    <Color x:Key="Materials-Controls-Selection-Focused">#0A82FFBF</Color>
-    <Color x:Key="Materials-Controls-Selection-Unfocused">#FFFFFF1A</Color>
-    <Color x:Key="Materials-Controls-Header-View">#2852AD14</Color>
-    <Color x:Key="Materials-Controls-Tooltip">#00000059</Color>
-    <Color x:Key="Materials-Controls-Under-Window-Background">#00000073</Color>
-    <Color x:Key="Materials-Controls-Fullscreen">#28282880</Color>
-    <Color x:Key="Materials-Controls-Hud">#28282880</Color>
+    <Color x:Key="Materials-Ultrathick">#7F000000</Color>
+    <Color x:Key="Materials-Thick">#66000000</Color>
+    <Color x:Key="Materials-Medium">#4A000000</Color>
+    <Color x:Key="Materials-Thin">#33000000</Color>
+    <Color x:Key="Materials-Ultrathin">#1A000000</Color>
+    <Color x:Key="Materials-Controls-Menu">#93282828</Color>
+    <Color x:Key="Materials-Controls-Popover">#47000000</Color>
+    <Color x:Key="Materials-Controls-Title-Bar">#cc3c3c3c</Color>
+    <Color x:Key="Materials-Controls-Sidebar">#72000000</Color>
+    <Color x:Key="Materials-Controls-Selection-Focused">#bf0a82ff</Color>
+    <Color x:Key="Materials-Controls-Selection-Unfocused">#19ffffff</Color>
+    <Color x:Key="Materials-Controls-Header-View">#132852ad</Color>
+    <Color x:Key="Materials-Controls-Tooltip">#59000000</Color>
+    <Color x:Key="Materials-Controls-Under-Window-Background">#72000000</Color>
+    <Color x:Key="Materials-Controls-Fullscreen">#7f282828</Color>
+    <Color x:Key="Materials-Controls-Hud">#7f282828</Color>
 </ResourceDictionary>
