@@ -1,0 +1,72 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="Accents-Red">#FF453A</Color>
+    <Color x:Key="Accents-Orange">#FF9F0A</Color>
+    <Color x:Key="Accents-Yellow">#FFD60A</Color>
+    <Color x:Key="Accents-Green">#32D74B</Color>
+    <Color x:Key="Accents-Mint">#66D4CF</Color>
+    <Color x:Key="Accents-Teal">#6AC4DC</Color>
+    <Color x:Key="Accents-Cyan">#5AC8F5</Color>
+    <Color x:Key="Accents-Blue">#0A84FF</Color>
+    <Color x:Key="Accents-Indigo">#5E5CE6</Color>
+    <Color x:Key="Accents-Purple">#BF5AF2</Color>
+    <Color x:Key="Accents-Pink">#FF375F</Color>
+    <Color x:Key="Accents-Gray">#98989D</Color>
+    <Color x:Key="Accents-Brown">#AC8E68</Color>
+    <Color x:Key="Accents-Vibrant-Red">#FF4F44</Color>
+    <Color x:Key="Accents-Vibrant-Orange">#FFA914</Color>
+    <Color x:Key="Accents-Vibrant-Yellow">#FFE014</Color>
+    <Color x:Key="Accents-Vibrant-Green">#3CE155</Color>
+    <Color x:Key="Accents-Vibrant-Mint">#6CE0DB</Color>
+    <Color x:Key="Accents-Vibrant-Teal">#44D4FA</Color>
+    <Color x:Key="Accents-Vibrant-Cyan">#5ACDFA</Color>
+    <Color x:Key="Accents-Vibrant-Blue">#148EFF</Color>
+    <Color x:Key="Accents-Vibrant-Indigo">#6361F2</Color>
+    <Color x:Key="Accents-Vibrant-Purple">#CC65FF</Color>
+    <Color x:Key="Accents-Vibrant-Pink">#FF4169</Color>
+    <Color x:Key="Accents-Vibrant-Brown">#B69872</Color>
+    <Color x:Key="Accents-Vibrant-Gray">#A2A2A7</Color>
+
+
+    <Color x:Key="Fills-Primary">#FFFFFF1A</Color>
+    <Color x:Key="Fills-Secondary">#FFFFFF14</Color>
+    <Color x:Key="Fills-Tertiary">#FFFFFF0D</Color>
+    <Color x:Key="Fills-Quaternary">#FFFFFF08</Color>
+    <Color x:Key="Fills-Quinary">#FFFFFF03</Color>
+    <Color x:Key="Fills-Vibrant-Primary">#242424</Color>
+    <Color x:Key="Fills-Vibrant-Secondary">#141414</Color>
+    <Color x:Key="Fills-Vibrant-Tertiary">#0D0D0D</Color>
+    <Color x:Key="Fills-Vibrant-Quaternary">#090909</Color>
+    <Color x:Key="Fills-Vibrant-Quinary">#070707</Color>
+
+
+    <Color x:Key="Text-Primary">#FFFFFFD9</Color>
+    <Color x:Key="Text-Secondary">#FFFFFF8C</Color>
+    <Color x:Key="Text-Tertiary">#FFFFFF40</Color>
+    <Color x:Key="Text-Quaternary">#FFFFFF1A</Color>
+    <Color x:Key="Text-Quinary">#FFFFFF0D</Color>
+    <Color x:Key="Text-Vibrant-Primary">#E5E5E5</Color>
+    <Color x:Key="Text-Vibrant-Secondary">#7C7C7C</Color>
+    <Color x:Key="Text-Vibrant-Tertiary">#414141</Color>
+    <Color x:Key="Text-Vibrant-Quaternary">#414141</Color>
+    <Color x:Key="Text-Vibrant-Quinary">#414141</Color>
+
+
+    <Color x:Key="Materials-Ultrathick">#00000080</Color>
+    <Color x:Key="Materials-Thick">#00000066</Color>
+    <Color x:Key="Materials-Medium">#0000004A</Color>
+    <Color x:Key="Materials-Thin">#00000033</Color>
+    <Color x:Key="Materials-Ultrathin">#0000001A</Color>
+    <Color x:Key="Materials-Controls-Menu">#F6F6F6B8</Color>
+    <Color x:Key="Materials-Controls-Popover">#F6F6F699</Color>
+    <Color x:Key="Materials-Controls-Title-Bar">#3C3C3CCC</Color>
+    <Color x:Key="Materials-Controls-Sidebar">#00000073</Color>
+    <Color x:Key="Materials-Controls-Selection-Focused">#0A82FFBF</Color>
+    <Color x:Key="Materials-Controls-Selection-Unfocused">#FFFFFF1A</Color>
+    <Color x:Key="Materials-Controls-Header-View">#2852AD14</Color>
+    <Color x:Key="Materials-Controls-Tooltip">#00000059</Color>
+    <Color x:Key="Materials-Controls-Under-Window-Background">#00000073</Color>
+    <Color x:Key="Materials-Controls-Fullscreen">#28282880</Color>
+    <Color x:Key="Materials-Controls-Hud">#28282880</Color>
+</ResourceDictionary>

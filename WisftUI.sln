@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisftUI", "WisftUI\WisftUI.csproj", "{DAE4D901-57B9-4D2B-A32F-6DCFE3CAF40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisftUI.Demo", "WisftUI.Demo\WisftUI.Demo.csproj", "{388CA831-733F-4202-8F66-904ABDEBF47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE4D901-57B9-4D2B-A32F-6DCFE3CAF40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE4D901-57B9-4D2B-A32F-6DCFE3CAF40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE4D901-57B9-4D2B-A32F-6DCFE3CAF40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE4D901-57B9-4D2B-A32F-6DCFE3CAF40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388CA831-733F-4202-8F66-904ABDEBF47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388CA831-733F-4202-8F66-904ABDEBF47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388CA831-733F-4202-8F66-904ABDEBF47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388CA831-733F-4202-8F66-904ABDEBF47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
