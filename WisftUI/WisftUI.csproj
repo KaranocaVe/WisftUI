@@ -2,6 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>8</LangVersion>
+        <GenerateAvaloniaResources>true</GenerateAvaloniaResources>
     </PropertyGroup>
 
     <ItemGroup>
@@ -10,11 +12,21 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controls\" />
       <Folder Include="Converters\" />
       <Folder Include="CustomFont\" />
       <Folder Include="Dialogs\" />
       <Folder Include="Enums\" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <AvaloniaResource Include="Theme\**\*.axaml" />
+    </ItemGroup>
+    
+
+    <ItemGroup>
+      <Compile Update="Theme\Index.axaml.cs">
+        <DependentUpon>Index.axaml</DependentUpon>
+      </Compile>
     </ItemGroup>
 
 </Project>
