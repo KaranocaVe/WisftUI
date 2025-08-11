@@ -4,6 +4,7 @@
         <SimpleTheme />
 
         <StyleInclude Source="avares://WisftUI/Theme/SquircleBorder.axaml" />
+        <StyleInclude Source="avares://WisftUI/Theme/Slider.axaml" />
 
         <Styles.Resources>
                 <ResourceDictionary>
@@ -12,5 +13,8 @@
                                 <ResourceInclude x:Key="Dark" Source="../ColorTheme/Dark.axaml"/>
                         </ResourceDictionary.ThemeDictionaries>
                 </ResourceDictionary>
+
+                <CornerRadius x:Key="SmallCornerRadius">8</CornerRadius>
+                <CornerRadius x:Key="MediumCornerRadius">15</CornerRadius>
         </Styles.Resources>
 </Styles>

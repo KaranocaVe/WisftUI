@@ -12,12 +12,9 @@
         </Border>
     </Design.PreviewWith>
 
-    <!-- <Style Selector="controls|SquircleBorder"> -->
-    <!--     <Setter Property="CornerRadius" Value="7" /> -->
-    <!--     <Setter Property="Smoothness" Value="0.5" /> -->
-    <!--     <Setter Property="Background" Value="Black" /> -->
-    <!--     <Setter Property="BorderBrush" Value="DarkSlateGray" /> -->
-    <!--     <Setter Property="BorderThickness" Value="1" /> -->
-    <!-- </Style> -->
+    <Style Selector="controls|SquircleBorder">
+        <Setter Property="CornerRadius" Value="11" />
+        <Setter Property="Smoothness" Value="0.27" />
+    </Style>
 
 </Styles>
